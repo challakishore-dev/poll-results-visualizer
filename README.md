@@ -83,14 +83,12 @@ Poll-Results-Visualizer/
 
 ## 📸 Screenshots
 
-Add screenshots inside `/images`
-
 ### Dashboard Home
 
 <img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/31582d5e-6474-4cc4-9c8a-9cd692ed064c" />
 
 
-### Vote Share
+### Vote Count 
 
 <img width="1920" height="1080" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/48294e07-9f55-478a-b197-589442050cec" />
 
